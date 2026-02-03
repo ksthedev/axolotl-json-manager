@@ -43,8 +43,6 @@ Import the library after installation:
 
 ```js
 import axolotljson from "C:/axolotl/json/axolotl.js"
-
-const json = axolotljson.json
 ```
 
 ---
